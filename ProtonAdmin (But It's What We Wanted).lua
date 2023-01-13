@@ -3,7 +3,7 @@
     {
         Added: kill, permavoid, serverhop, new dupe + dupe UI to match protons colors, added rejoin refresh (rjre), digitalities "leg rescale" which we all know he didn't make and source added so people can skid more from me, other stuff i cant remember
         Changed: changed the trash over done re to a more simple and useful one, changed "punish" command to perma void explaination in the command, improved void, improved fling and switched with mine, improved hat fling to work with any accessory, other stuff idk
-        Removed or Commented Out: Most if not all commands relating to layered clothing crashes (obvious reasons), stupid jump command? lmao, other stuff i forgot
+        Removed or Commented Out: Most if not all commands relating to layered clothing crashes (obvious reasons), stupid jump command? lmao, removed stupid RGB UI it had that digiality promised hed fix, other stuff i forgot
         Future Ideas: Adding alleged digitalties "kill all/bring all" that we all know he didn't make with full source so more skidding for you guys yay
         DM me if you have a brain the size of a grain of sand and encounters a problem and can't fix it for some reason.
     }
